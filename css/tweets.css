@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+#tweets {
+margin: 0 auto;
+width:300px;
+}
+
+#tweets h3 {
+color: #999999;
+font-family: tahoma;
+font-weight: lighter;
+padding: 0;
+text-shadow: 0 1px 0 #FFFFFF;
+}
+
+#tweets ul#twitter_update_list {
+background-color: #FFFFFF;
+border: 1px solid #CCCCCC;
+border-radius: 3px 3px 3px 3px;
+bottom: 10px;
+box-shadow: 0 10px 10px -10px #000;
+font-size: 10px;
+height: 47px;
+margin: 0 auto;
+padding: 10px;
+position: relative;
+width: 280px;
+top:0px;
+}
+
+#tweets ul#twitter_update_list li {
+position: absolute;
+list-style: none;
+display: none;
+background-color: #FFFFFF;
+padding: 5px;
+}
+
+#tweets ul#twitter_update_list li.current {
+display: block;
+}
+
+#tweets p a {
+font-size: 10px;
+}
+
+#tweets a {}
+
+p.follow {
+padding: 0;
+}
