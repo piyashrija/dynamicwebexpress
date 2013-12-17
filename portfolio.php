@@ -20,7 +20,7 @@
                 
                 
 		<ul class="row">
-			<li class="py-cr span6">
+			<li class="py-cr span4">
 					
                             
 							<img src="images/img4.jpg"  height="300"/>							
@@ -28,7 +28,44 @@
                                                         </p> 
                                                         
 			</li>
-			<li class="py-cr span6">
+			<li class="py-cr span4">
+				
+						  
+							<img src="images/img4.jpg"  height="300"/>							
+                                                        <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
+                                                        </p>      
+                                                        
+					
+					
+			</li>
+                        <li class="py-cr span4">
+				
+						  
+							<img src="images/img4.jpg"  height="300"/>							
+                                                        <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
+                                                        </p>      
+                                                        
+					
+					
+			</li>
+                        <li class="py-cr span4">
+					
+                          		<img src="images/img4.jpg"  height="300"/>							
+                                                        <p>basjbfk  jasbfk ansdk fngka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn
+                                                        </p> 
+                                                        
+			</li>
+			<li class="py-cr span4">
+				
+						
+							<img src="images/img4.jpg"  height="300"/>							
+                                                        <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
+                                                        </p>      
+                                                        
+					
+					
+			</li>
+                        <li class="py-cr span4">
 				
 						  
 							<img src="images/img4.jpg"  height="300"/>							
@@ -39,25 +76,8 @@
 					
 			</li>
 		</ul>
-                <ul class="row">
-			<li class="py-cr span6">
-					
-                          		<img src="images/img4.jpg"  height="300"/>							
-                                                        <p>basjbfk  jasbfk ansdk fngka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn
-                                                        </p> 
-                                                        
-			</li>
-			<li class="py-cr span6">
-				
-						
-							<img src="images/img4.jpg"  height="300"/>							
-                                                        <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
-                                                        </p>      
-                                                        
-					
-					
-			</li>
-		</ul>
+                
+                
 	</div>
 </div>
 <?php include 'footer.php';?>

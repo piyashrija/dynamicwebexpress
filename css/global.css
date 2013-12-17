@@ -617,27 +617,30 @@ div.rt-pt1>div>h1{
 .portfolio  .span12{
 	padding-left:20px;
        
-}
-.portfolio ul {
-	padding-left:20px;
        
 }
+.portfolio ul {
+	padding-left:90px;
+       padding-bottom:65px;
+       padding-top:50px;
+}
 
-.portfolio .span6{
+.portfolio .span4{
 	
-        margin-bottom:8px;
+        margin-bottom:-5px;
         margin-top:18px;
-        width:350px;
+        width:310px;
        border:1px solid #ccc;
         padding:10px;
+        margin-left:14px;
 }
-.portfolio .span6 img{
+.portfolio .span4 img{
 	margin-top:0px;
         margin-bottom:10px;
         border-bottom:1px solid #ccc;
         padding-bottom:15px;
 }
-.portfolio .span6 p {
+.portfolio .span4 p {
 	padding-top:0px;
     padding-left:10px;
      padding-right:10px;
