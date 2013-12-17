@@ -103,10 +103,10 @@ function base64_url_decode($input) {
 					<div class="nav-collapse collapse">
 						<ul class="nav">
 							<li class ='<?php $active = ($page_url[0] == "index")?'active':'';echo $active;?>'><a href="index.php">Home</a></li>
-							<li><a href="#">Features</a></li>
+							<li class ='<?php $active = ($page_url[0] == "feature")?'active':'';echo $active;?>'><a href="feature.php">Features</a></li>
 							<li class ='<?php $active = ($page_url[0] == "portfolio")?'active':'';echo $active;?>'><a href="portfolio.php">Portfolio</a></li>
-							<li><a href="#">Blog</a></li>
-							<li><a href="#">Contact</a></li>
+                                                        <li class='<?php $active  =($page_url[0] == "blog")?'active':'';echo $active;?>'><a href="blog.php">Blog</a></li>
+							<li class='<?php $active  =($page_url[0] == "contact")?'active':'';echo $active;?>'><a href="contact.php">Contact</a></li>
 						</ul>
 						<form class="navbar-search pull-right">
 							<input placeholder="Search" class="search-query" type="text">
