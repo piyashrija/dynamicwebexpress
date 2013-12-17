@@ -23,7 +23,8 @@
 			<li class="py-cr span4">
 					
                             
-							<img src="images/img4.jpg"  height="300"/>							
+							<img src="images/img4.jpg"  height="300"/>		
+                                                        <div class="rdl"> <div class="rdl"><img src="images/dblue-1.png"  /></div></div>
                                                         <p>basjbfk  jasbfk ansdk fngka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn
                                                         </p> 
                                                         
@@ -31,7 +32,8 @@
 			<li class="py-cr span4">
 				
 						  
-							<img src="images/img4.jpg"  height="300"/>							
+							<img src="images/img4.jpg"  height="300"/>
+                                                        <div class="rdl"> <div class="rdl"><img src="images/orange-1.png"  /></div></div>
                                                         <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
                                                         </p>      
                                                         
@@ -41,7 +43,8 @@
                         <li class="py-cr span4">
 				
 						  
-							<img src="images/img4.jpg"  height="300"/>							
+							<img src="images/img4.jpg"  height="300"/>
+                                                        <div class="rdl"> <div class="rdl"><img src="images/lblue-1.png"  /></div></div>
                                                         <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
                                                         </p>      
                                                         
@@ -50,7 +53,8 @@
 			</li>
                         <li class="py-cr span4">
 					
-                          		<img src="images/img4.jpg"  height="300"/>							
+                          		<img src="images/img4.jpg"  height="300"/>
+                                        <div class="rdl"> <div class="rdl"><img src="images/blue-1.png"  /></div></div>
                                                         <p>basjbfk  jasbfk ansdk fngka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn
                                                         </p> 
                                                         
@@ -58,7 +62,8 @@
 			<li class="py-cr span4">
 				
 						
-							<img src="images/img4.jpg"  height="300"/>							
+							<img src="images/img4.jpg"  height="300"/>	
+                                                        <div class="rdl"> <div class="rdl"><img src="images/green-1.png"  /></div></div>
                                                         <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
                                                         </p>      
                                                         
@@ -68,7 +73,8 @@
                         <li class="py-cr span4">
 				
 						  
-							<img src="images/img4.jpg"  height="300"/>							
+							<img src="images/img4.jpg"  height="300"/>
+                                                        <div class="rdl"><img src="images/red-1.png"  /></div>
                                                         <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
                                                         </p>      
                                                         
