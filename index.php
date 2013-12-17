@@ -45,18 +45,7 @@
 				<h3>Unconscious life</h3>
 				<span class="rt-pt-bt">illustration</span>
 			</div>
-			<div class="span3 rt-pt-tt rt-pt-tt-bt">
-					<div>
-						<h3>Drive my soul</h3>
-						<p class="txt">Lorem ipsum dolor sit amet, apollonius non ait in rei civibus in modo cavendum es ego quod eam eos cui ut a lenoni vero diam. Acui ut a lenoni vero diam.quod eam eos cui ut a lenoni vero diam. Acui ut a lenoni vero diam.</p>
-						<p class="sr-ps">
-							<span><i class="ps-bn"></i></span>
-							<span><i class="lt-bn"></i></span>
-						</p>
-						<span class="rt-pt-bt">Photography</span>
-						
-					</div>
-			</div>
+			
 		</div>
 		<div class="rt-bg row">
 			<div>

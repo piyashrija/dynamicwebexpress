@@ -620,19 +620,19 @@ div.rt-pt1>div>h1{
        
 }
 .portfolio ul {
-	padding-left:90px;
-       padding-bottom:65px;
-       padding-top:50px;
+	padding-left:35px;
+       padding-bottom:9px;
+    
 }
 
 .portfolio .span4{
 	
-        margin-bottom:-5px;
+        margin-bottom:-2px;
         margin-top:18px;
-        width:310px;
+        width:345px;
        border:1px solid #ccc;
         padding:10px;
-        margin-left:14px;
+        margin-left:15px;
 }
 .portfolio .span4 img{
 	margin-top:0px;
