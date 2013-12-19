@@ -644,7 +644,7 @@ div.rt-pt1>div>h1{
 .portfolio .span4 img:hover{
        opacity:0.8;
        box-shadow: 0 8px 6px -6px black;
-       transition: all 0.3s ease-out 0s;
+       transition: all 0.8s ease-out 0s;
            
 }
 
@@ -673,7 +673,7 @@ div.rt-pt1>div>h1{
         text-align:center;
         line-height:1.75;
         margin-bottom:0px;  
-        font-family:Century Gothic;
+        font-family:cabin;
         
 }
 
