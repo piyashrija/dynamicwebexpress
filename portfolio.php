@@ -20,65 +20,65 @@
                 
                 
 		<ul class="row">
-			<li class="py-cr span4">
+                    <li class="py-cr span4">
 					
-                            
-							<img src="images/img4.jpg"  height="300"/>		
-                                                        <div class="rdl"> <div class="rdl"><img src="images/dblue-1.png"  /></div></div>
-                                                        <p>basjbfk  jasbfk ansdk fngka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn
-                                                        </p> 
+							<img src="images/g1.jpg"  height="300"/>	
                                                         
-			</li>
+                                                        <p><b>T</b>asjbfk  jasbfk ans sds dk fngka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn
+                                                       </p>  
+                                                        <div class="rdl"><img src="images/dblue-1.png"  /></div>
+                        </li>
 			<li class="py-cr span4">
 				
 						  
-							<img src="images/img4.jpg"  height="300"/>
-                                                        <div class="rdl"> <div class="rdl"><img src="images/orange-1.png"  /></div></div>
-                                                        <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
-                                                        </p>      
+							<img src="images/g2.jpg"  height="300"/>
+                                                       
+                                                        <p><b>B</b>asjbfk jasbfka nsdk  dsd fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
+                                                        </p>    
                                                         
-					
+					 <div class="rdl"><img src="images/orange-1.png"  /></div>
 					
 			</li>
                         <li class="py-cr span4">
 				
 						  
-							<img src="images/img4.jpg"  height="300"/>
-                                                        <div class="rdl"> <div class="rdl"><img src="images/lblue-1.png"  /></div></div>
-                                                        <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
-                                                        </p>      
+							<img src="images/g3.jpg"  height="300"/>
+                                                      
+                                                        <p><b>L</b>asjbfk jasbfka nsdk fngk  sdas asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
+                                                        </p>    
                                                         
-					
+					<div class="rdl"><img src="images/lblue-1.png"  /></div>
 					
 			</li>
+                        
                         <li class="py-cr span4">
 					
-                          		<img src="images/img4.jpg"  height="300"/>
-                                        <div class="rdl"> <div class="rdl"><img src="images/blue-1.png"  /></div></div>
-                                                        <p>basjbfk  jasbfk ansdk fngka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn
-                                                        </p> 
+                          		<img src="images/g4.jpg"  height="300"/>
+                                        
+                                                        <p><b>H</b>asjbfk  jasbfk ansdk fng dsadka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn
+                                                        </p>
+                                                        <div class="rdl"><img src="images/blue-1.png"  /></div>
                                                         
 			</li>
 			<li class="py-cr span4">
 				
 						
-							<img src="images/img4.jpg"  height="300"/>	
-                                                        <div class="rdl"> <div class="rdl"><img src="images/green-1.png"  /></div></div>
-                                                        <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
+							<img src="images/g5.jpg"  height="300"/>	
+                                                     
+                                                        <p><b>A</b>asjbfk jasbfka nsdk fngk asnk dsa fnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
                                                         </p>      
-                                                        
+                                                       <div class="rdl"><img src="images/green-1.png"  /></div>  
 					
 					
 			</li>
                         <li class="py-cr span4">
 				
 						  
-							<img src="images/img4.jpg"  height="300"/>
-                                                        <div class="rdl"><img src="images/red-1.png"  /></div>
-                                                        <p>basjbfk jasbfka nsdk fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
-                                                        </p>      
-                                                        
-					
+							<img src="images/g6.jpg"  height="300"/>
+                                                       
+                                                        <p><b>K</b>asjbfk jasbfka nsdk fngk asn dsad kfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
+                                                        </p>  
+					 <div class="rdl"><img src="images/red-1.png"  /></div>
 					
 			</li>
 		</ul>
