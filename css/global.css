@@ -647,7 +647,30 @@ div.rt-pt1>div>h1{
        transition: all 0.8s ease-out 0s;
            
 }
+.portfolio   .like{
+	width:20px;
+        height:20px;
+        float:right;
+        margin-right:10px;
+        margin-bottom:10px;
+        
+}
 
+
+.portfolio .span4 .like  img:hover{
+       opacity:1;
+       box-shadow:none;
+      
+          
+       
+}
+.portfolio   .like img{
+	width:100%;
+        height:100%;
+        border:none;
+        
+        
+}
 .portfolio   .rdl{
 	width:100%;
         height:2px;
@@ -668,12 +691,13 @@ div.rt-pt1>div>h1{
            
 }
 .portfolio .span4 p {
-	padding: 5px 10px 10px 5px ;
+	padding: 5px 10px 0px 5px ;
         margin-top:1px;
         text-align:center;
         line-height:1.75;
         margin-bottom:0px;  
-        font-family:cabin;
+        font-family:Calibri;
+        font-size:17px;
         
 }
 

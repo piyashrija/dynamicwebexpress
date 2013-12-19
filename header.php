@@ -13,12 +13,16 @@ $page_url = explode('.',basename(curPageURL()));
 <link type="text/css" rel="stylesheet" href="css/reset.css" />
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/bootstrap-responsive.css" rel="stylesheet">
+<link href="css/lightbox.css" rel="stylesheet" />
 <link rel="stylesheet" href="css/default.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
 <link type="text/css" rel="stylesheet" href="css/global.css"/>
+<script src="javascript/jquery-1.10.2.min.js"></script>
+<script src="javascript/lightbox-2.6.min.js"></script>
 <script type="text/javascript" src="javascript/modernizr.js"></script>
 <script type="text/javascript" src="javascript/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="javascript/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="javascript/jquery-migrate-1.1.1.js"></script>
 <script src="javascript/bootstrap.min.js" type="text/javascript"></script>
 <script src="javascript/jquery-ui.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="javascript/script.js"></script>
