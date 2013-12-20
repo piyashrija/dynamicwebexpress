@@ -21,12 +21,10 @@ $page_url = explode('.',basename(curPageURL()));
 <script src="javascript/lightbox-2.6.min.js"></script>
 <script type="text/javascript" src="javascript/modernizr.js"></script>
 <script type="text/javascript" src="javascript/jquery-1.7.1.min.js"></script>
-<script type="text/javascript" src="javascript/jquery.nivo.slider.pack.js"></script>
-<script type="text/javascript" src="javascript/jquery-migrate-1.1.1.js"></script>
 <script src="javascript/bootstrap.min.js" type="text/javascript"></script>
 <script src="javascript/jquery-ui.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="javascript/script.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+
+
 
 
 </script>
