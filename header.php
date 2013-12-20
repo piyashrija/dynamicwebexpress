@@ -27,6 +27,8 @@ $page_url = explode('.',basename(curPageURL()));
 <script src="javascript/jquery-ui.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="javascript/script.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+
+
 </script>
 
 <script type="text/javascript">
@@ -40,8 +42,10 @@ $page_url = explode('.',basename(curPageURL()));
              $("button").click(function(){
                  $("p").slideToggle();
   });	
+  
+   
     });
-	
+  });	
 </script>
 <title>Dynamic Web Express</title>
 </head>

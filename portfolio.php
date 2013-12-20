@@ -1,7 +1,5 @@
 <?php include 'header.php';?>
-<script type="text/javascript">
-	var ind_val = 2;
-</script>
+
 
 
 <div id="wrap">
