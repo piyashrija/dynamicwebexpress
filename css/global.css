@@ -619,12 +619,14 @@ div.rt-pt1>div>h1{
        
        
 }
+ img{
+    max-width: none;
+}
 .portfolio ul {
       padding-left:5px;
       padding-bottom:9px;
       margin-left:0px;
 }
-
 
 .portfolio .span4{
 	
