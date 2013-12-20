@@ -20,7 +20,7 @@
 		<ul class="row enlarge">
                     <li class="py-cr span4">
 					
-                        <a href="images/g1.jpg" data-lightbox="roadtrip" title="My caption"><img src="images/g1.jpg"  /></a>	
+                        <a href="images/g1.jpg" data-lightbox="roadtrip" title="My caption"><div class="ibox"><img src="images/g1.jpg"  /></div></a>	
                                                         
                                                         <p><b>T</b>asjbfk  jasbfk ans sds dk fngka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn
                                                       </p> 
@@ -30,7 +30,7 @@
 			<li class="py-cr span4">
 				
 						  
-                            <a href="images/g2.jpg" data-lightbox="roadtrip" title="My caption"><img src="images/g2.jpg"  /></a>
+                            <a href="images/g2.jpg" data-lightbox="roadtrip" title="My caption"><div class="ibox"><img src="images/g2.jpg"  /></div></a>
                                                        
                                                         <p><b>B</b>asjbfk jasbfka nsdk  dsd fngk asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
                                                         </p>    
@@ -41,7 +41,7 @@
                         <li class="py-cr span4">
 				
 						  
-                            <a href="images/g3.jpg" data-lightbox="roadtrip" title="My caption"><img src="images/g3.jpg"  height="300"/></a>
+                            <a href="images/g3.jpg" data-lightbox="roadtrip" title="My caption"><div class="ibox"><img src="images/g3.jpg"  /></div></a>
                                                       
                                                         <p><b>L</b>asjbfk jasbfka nsdk fngk  sdas asnkfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
                                                         </p>    
@@ -52,7 +52,7 @@
                         
                         <li class="py-cr span4">
 					
-                            <a href="images/g4.jpg" data-lightbox="roadtrip" title="My caption"><img src="images/g4.jpg"  height="300"/></a>
+                            <a href="images/g4.jpg" data-lightbox="roadtrip" title="My caption"><div class="ibox"><img src="images/g4.jpg"  /></div></a>
                                         
                                                         <p><b>H</b>asjbfk  jasbfk ansdk fng dsadka  snkfn  sadlknfsajd  lfjsaljlfjs  aljdf lksanld fmnl asndlkf  nsandf nsad fkn sdnfksnd nksf jdkfn skadn</p>
                                                          <div class="like"><img src="images/ht_icon.png"  /></div>
@@ -62,7 +62,7 @@
 			<li class="py-cr span4">
 				
 						
-                            <a href="images/g5.jpg" data-lightbox="roadtrip" title="My caption"><img src="images/g5.jpg"  />	</a>
+                            <a href="images/g5.jpg" data-lightbox="roadtrip" title="My caption"><div class="ibox"><img src="images/g5.jpg"  /></div>	</a>
                                                      
                                                         <p><b>A</b>asjbfk jasbfka nsdk fngk asnk dsa fnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
                                                         </p>  <div class="like"><img src="images/ht_icon.png"  /></div>     
@@ -73,7 +73,7 @@
                         <li class="py-cr span4">
 				
 						  
-                            <a href="images/g6.jpg" data-lightbox="roadtrip" title="My caption"><img src="images/g6.jpg"  /></a>
+                            <a href="images/g6.jpg" data-lightbox="roadtrip" title="My caption"><div class="ibox"><img src="images/g6.jpg"  /></div></a>
                                                        
                                                         <p><b>K</b>asjbfk jasbfka nsdk fngk asn dsad kfnsa   dlknfsaj dlfjsa ljlfjsal   jdflks anldfmn lasndl  kfns andfnsad nfk nsdnfk sndnksf jdkfns kadn
                                                         </p>   <div class="like"><img src="images/ht_icon.png"  /></div>
